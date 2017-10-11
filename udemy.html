@@ -4,5 +4,13 @@
     </table>
 </div>
 
+https://spreadsheets.google.com/feeds/spreadsheets/private/full
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="udemy.js"></script>
+<script>
+    $.getJSON("https://spreadsheets.google.com/feeds/list/1LV-tovyMbh8evUhlceF33h6UWypIJKUaOQpOQYc75ac/od6/public/values?alt=json",
+    function (data) {
+        console.log(data);
+    });
+</script>
+
