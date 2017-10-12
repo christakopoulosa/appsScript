@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08917166-a311-4355-806c-a6d8e745492e" name="Default" comment="" />
+    <list default="true" id="08917166-a311-4355-806c-a6d8e745492e" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/udemy.html" afterPath="$PROJECT_DIR$/Google Apps Script code snippets/udemy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,17 +14,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="udemy.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/udemy.html">
+      <file leaf-file-name="udemy.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Google Apps Script code snippets/udemy.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="90">
+              <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Hightligh Event.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Google Apps Script code snippets/Hightligh Event.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readMe.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readMe.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="81" lean-forward="false" selection-start-line="0" selection-start-column="81" selection-end-line="0" selection-end-column="81" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,6 +71,8 @@
       <list>
         <option value="$PROJECT_DIR$/udemy.js" />
         <option value="$PROJECT_DIR$/udemy.html" />
+        <option value="$PROJECT_DIR$/Hightligh Event.js" />
+        <option value="$PROJECT_DIR$/readMe.md" />
       </list>
     </option>
   </component>
@@ -86,6 +123,11 @@
               <item name="udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="Google Apps Script code snippets" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -97,6 +139,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Google Apps Script code snippets" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -204,12 +251,12 @@
       <updated>1507293440773</updated>
       <workItem from="1507293443487" duration="2861000" />
       <workItem from="1507499413935" duration="206000" />
-      <workItem from="1507715481049" duration="1198000" />
+      <workItem from="1507715481049" duration="1900000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4265000" />
+    <option name="totallyTimeSpent" value="4967000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="979" extended-state="0" />
@@ -254,7 +301,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/udemy.html">
+    <entry file="file://$PROJECT_DIR$/Google Apps Script code snippets/udemy.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
@@ -270,7 +317,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/udemy.html">
+    <entry file="file://$PROJECT_DIR$/Google Apps Script code snippets/udemy.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -301,11 +348,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/udemy.html">
+    <entry file="file://$PROJECT_DIR$/Google Apps Script code snippets/udemy.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="90">
+          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="81" lean-forward="false" selection-start-line="0" selection-start-column="81" selection-end-line="0" selection-end-column="81" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google Apps Script code snippets/Hightligh Event.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,0 +1,1 @@
+This project presents Google Apps Script code snippets for simple everyday tasks.
