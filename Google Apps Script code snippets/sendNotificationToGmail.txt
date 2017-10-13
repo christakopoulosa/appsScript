@@ -1,0 +1,15 @@
+function sendGmailWhenMeetUpIsTommorow() {
+   var today = new Date();
+   var tomorrow = new Date();
+   tomorrow.setDate(today.getDate()+1);
+
+   var allDataFromSpreadSheet = SpreadsheetApp.getActiveSheet().getSheetValues(1, 3, 15, 1);
+   Logger.log(allDataFromSpreadSheet);
+
+   for (i=1; allDataFromSpreadSheet.length; i++); {
+     if (allDataFromSpreadSheet[i][1] = tomorrow) {
+       return Object[2][i];
+       GmailApp.sendEmail("argyrios.christakopoulos@gmail.com", "Upcoming GOV Meet-Ups", "There is an up and coming meetup tommorw. \n Please advise https://docs.google.com/spreadsheets/d/1drDsKHDkim-5XzufJMd8iIvSj8uuPOdARj0GzF48N-g/edit#gid=0");
+     }
+   }
+ }

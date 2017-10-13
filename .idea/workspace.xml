@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08917166-a311-4355-806c-a6d8e745492e" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/udemy.html" afterPath="$PROJECT_DIR$/Google Apps Script code snippets/udemy.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="08917166-a311-4355-806c-a6d8e745492e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +21,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hightligh Event.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Hightligh Event.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Google Apps Script code snippets/Hightligh Event.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -32,6 +29,16 @@
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sendNotificationToGmail.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Google Apps Script code snippets/sendNotificationToGmail.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -73,6 +80,7 @@
         <option value="$PROJECT_DIR$/udemy.html" />
         <option value="$PROJECT_DIR$/Hightligh Event.js" />
         <option value="$PROJECT_DIR$/readMe.md" />
+        <option value="$PROJECT_DIR$/Google Apps Script code snippets/sendNotificationToGmail.txt" />
       </list>
     </option>
   </component>
@@ -251,12 +259,12 @@
       <updated>1507293440773</updated>
       <workItem from="1507293443487" duration="2861000" />
       <workItem from="1507499413935" duration="206000" />
-      <workItem from="1507715481049" duration="1900000" />
+      <workItem from="1507715481049" duration="2238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4967000" />
+    <option name="totallyTimeSpent" value="5305000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="979" extended-state="0" />
@@ -374,6 +382,14 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google Apps Script code snippets/sendNotificationToGmail.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
